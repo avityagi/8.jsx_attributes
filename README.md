@@ -1,2 +1,2 @@
-# 8.jsx_attributes
+# JSX_Attributes
 Created with CodeSandbox
